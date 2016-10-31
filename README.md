@@ -1,3 +1,3 @@
 Author: danielscocco@gmail.com
 
-MarketingNode app
+Hello World app
